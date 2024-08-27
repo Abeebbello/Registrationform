@@ -1,0 +1,41 @@
+ fieldset {
+    background-color: lightseagreen;
+    width: 230px;
+    margin: right;
+    border: 2px solid;
+    border-radius: 12px;
+    line-height: 50px;
+    color: white;
+}
+
+h1 {
+    text-align: left;
+    width: 150px;
+    height: 16px;
+}
+.name{
+    width: 400px;
+}
+.name {
+    height: 20px;
+}
+
+button {
+    width: 438px;
+    height: 50px;
+    background: green;
+    cursor: pointer;
+    color: white;
+}
+
+textarea {
+    width: 430px;
+    text-align: center;
+}
+legend{
+    background-color: lime;
+    border: 2px solid;
+    border-radius: 20px;
+}
+
+
